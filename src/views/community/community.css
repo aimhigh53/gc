@@ -1,0 +1,41 @@
+.body{
+  align-content: center;
+}
+
+.community h1{
+  color: white;
+  font-family: 'KimjungchulGothic-Bold', sans-serif;
+  margin-bottom: 10px;
+}
+
+.gc{
+  color: #616161;
+  font-family: 'KimjungchulGothic-Bold', sans-serif;
+}
+
+.my-details {
+  background-color: rgba(255, 255, 255, 0.747);
+  /*margin-right:-100px;*/
+}
+
+.custom-img-small {
+  margin-left: 100px;
+  height: 300px;
+}
+
+@media only screen and (max-width: 768px) {
+  .font-details{
+    font-size: 2rem !important;
+    margin-bottom: 30px;
+  }
+  .my-details{
+    margin-right: 0;
+  }
+  .body{
+    max-width: 50em;
+  }
+  .custom-img-small {
+    margin-left: 0;
+    height: 300px; /* You may want to adjust this to a specific value or leave it as auto */
+  }
+}
