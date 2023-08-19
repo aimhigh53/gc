@@ -7,6 +7,8 @@ import { QueryClient, QueryClientProvider } from "react-query";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 const queryClient = new QueryClient();
+
+require("dotenv").config();
 function App() {
   return (
     // Recoil root for state management
@@ -14,7 +16,7 @@ function App() {
       {/* Query client provider for react-query */}
       <QueryClientProvider client={queryClient}>
         {/* Router for handling routing */}
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/community" element={<Home />} />

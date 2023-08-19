@@ -22,7 +22,7 @@ const NavBar = () => {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-nwavbar-nav">
           <Nav className="ml-auto">
-            <Nav.Link href="#home">Home</Nav.Link>
+            <Nav.Link href="#">Home</Nav.Link>
             <Nav.Link href="#community">청년교구 공동체</Nav.Link>
             <Nav.Link href="#teams">청년 사역팀</Nav.Link>
             <Nav.Link href="#sns">청년교구 SNS</Nav.Link>
