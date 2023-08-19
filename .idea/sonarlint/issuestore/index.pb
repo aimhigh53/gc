@@ -27,21 +27,14 @@ K
 src/views/projects/index.js,d/7/d791e9557c5669152324d956aae0df0145f9e837
 N
 src/views/projects/project.css,8/8/88f0cb3759631a459e87ed0fe955750e1613fda8
-<
-package.json,7/0/7030d0b2f71b999ff89a343de08c414af32fc93a
 e
 5node_modules/@mui/material/Typography/Typography.d.ts,9/c/9c3872b11a988c40bb3fe7b94bd5d5f89942014c
 \
 ,src/components/title-message/TitleMessage.js,e/4/e4cbd42479f4ac18758cdea3f70ac57af04738a3
 V
 &src/views/blog-section/BlogSection.css,7/2/72753a84230c9f5d1c6191738157b8544d870b1a
-:
-
-src/App.js,1/e/1e43fa63aecd2127be034b3fb9d4caa172275714
 Q
 !node_modules/react-reveal/Fade.js,9/3/93b3bb0b80c2ed6668fd366fe0d373c3a2dfdc7e
-A
-public/index.html,f/4/f43ecdf8d666ee908aacce037b4cd72159e4741b
 S
 #src/components/carousel/Carousal.js,9/8/9820192932450ea7371e5dac451ad1ecc79cdd8c
 Q
@@ -54,7 +47,5 @@ G
 src/views/home/home.css,b/1/b128382ef3765288779294220cf9af655aa9b8ee
 V
 &src/views/teams/component/IntroCard.js,7/2/72bff84edc4562f2cc15b66ad954620367cdf1c2
-L
-src/views/community/index.js,5/5/55d4b7594c574e2dc7e1f9ce3ee28ad5c66a2963
 F
 src/views/sns/index.js,c/6/c6a6fee2e3129ec7a3ab94f7e13f28f40067b78d
