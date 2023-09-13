@@ -1,14 +1,15 @@
 import React from "react";
 import "./App.css";
 
-import Home from "./views/home";
+import Main from "./views/Main/index";
 import { RecoilRoot } from "recoil";
 import { QueryClient, QueryClientProvider } from "react-query";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, HashRouter, Route, Routes } from "react-router-dom";
+import Frame from "./views/Main/test";
+import NavBar from "./components/navBar/NavBar";
 
 const queryClient = new QueryClient();
 
-require("dotenv").config();
 function App() {
   return (
     // Recoil root for state management
@@ -16,17 +17,18 @@ function App() {
       {/* Query client provider for react-query */}
       <QueryClientProvider client={queryClient}>
         {/* Router for handling routing */}
-        <BrowserRouter basename={process.env.PUBLIC_URL}>
+        <HashRouter>
+          <NavBar />
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/community" element={<Home />} />
-            <Route path="/teams" element={<Home />} />
-            <Route path="/hispeople" element={<Home />} />
-            <Route path="/gchome" element={<Home />} />
+            <Route path="/" element={<Main />} />
+            {/*<Route path="/community" element={<Home />} />*/}
+            {/*<Route path="/teams" element={<Home />} />*/}
+            {/*<Route path="/hispeople" element={<Home />} />*/}
+            {/*<Route path="/gchome" element={<Home />} />*/}
 
             {/* Add other routes here */}
           </Routes>
-        </BrowserRouter>
+        </HashRouter>
       </QueryClientProvider>
     </RecoilRoot>
   );

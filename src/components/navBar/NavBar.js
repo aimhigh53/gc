@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
-import Logo from "../../assets/icons/logo.png";
+import Logo from "../../assets/img/header/logo.png";
 import "./NavBar.css";
 import "../../assets/font/HeaderFont.css";
 
@@ -12,12 +12,11 @@ const NavBar = () => {
         collapseOnSelect
         expand="md"
         className="animate-navbar nav-theme justify-content-between"
-        // fixed="top"
-        variant="dark"
+        fixed="top"
       >
         {/*청년교구 로고*/}
         <Navbar.Brand href="#home">
-          {/*<img className="logo" src={Logo} alt="Logo" />*/}
+          <img className="logo" src={Logo} alt="Logo" />
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-nwavbar-nav">

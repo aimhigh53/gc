@@ -7,26 +7,19 @@ const MyTitleMessage = styled.h1`
   width: 100%;
   top: 22rem;
   z-index: 1;
-  margin-top: -125px;
+  margin-top: -250px;
   text-align: center;
   strong {
-    font-size: 1.25em;
+    font-size: 1.5em;
   }
   div {
-    color: ${(props) => props.theme.titleColor};
+    //color: ${(props) => props.theme.titleColor};
     text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.4);
     font-weight: 100;
     .main {
-      font-size: 50px;
+      font-size: 30px;
+      font-family: 'Happiness-Sans-Title', sans-serif
     }
-    .main text-center mb-3 {
-      font-family: "Happiness-Sans-Title", sans-serif;
-    }
-    .sub {
-      font-size: 27px;
-      letter-spacing: 2px;
-    }
-  }
 `;
 
 const TitleMessage = () => (
@@ -37,18 +30,8 @@ const TitleMessage = () => (
           과천교회 청년교구
           <br />
           <span>
-            <strong>Deepen Your Faith👋</strong>
+            <strong>깊어지는 믿음</strong>
           </span>
-        </div>
-        <div className="sub">
-          <Typewriter
-            options={{
-              strings: ["WAY MAKER", "OVERFLOWING"],
-              autoStart: true,
-              loop: true,
-              delay: 50,
-            }}
-          />
         </div>
       </div>
     </div>

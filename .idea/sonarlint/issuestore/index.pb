@@ -17,35 +17,37 @@ X
 (src/components/scroll-down/ScrollDown.js,9/7/97c4ac0f213d8377d4bb6816eb3f8c0bd230a65e
 M
 src/components/theme/theme.js,2/3/231c51315eaf87db507fdd6184a151da3f0fbdba
-<
-src/index.js,f/9/f900edc44cb929c2267a16100a32851f6d5b477d
 Y
 )node_modules/react-bootstrap/esm/Nav.d.ts,d/9/d94bcc60533cf077e8eff6f706d39922fdbe6254
 ^
 .node_modules/react-bootstrap/esm/CardDeck.d.ts,2/e/2e54b7a95eaf1b1047ae76d3df87cb4446ba4a08
-K
-src/views/projects/index.js,d/7/d791e9557c5669152324d956aae0df0145f9e837
 N
 src/views/projects/project.css,8/8/88f0cb3759631a459e87ed0fe955750e1613fda8
 e
 5node_modules/@mui/material/Typography/Typography.d.ts,9/c/9c3872b11a988c40bb3fe7b94bd5d5f89942014c
-\
-,src/components/title-message/TitleMessage.js,e/4/e4cbd42479f4ac18758cdea3f70ac57af04738a3
 V
 &src/views/blog-section/BlogSection.css,7/2/72753a84230c9f5d1c6191738157b8544d870b1a
 Q
 !node_modules/react-reveal/Fade.js,9/3/93b3bb0b80c2ed6668fd366fe0d373c3a2dfdc7e
-S
-#src/components/carousel/Carousal.js,9/8/9820192932450ea7371e5dac451ad1ecc79cdd8c
 Q
 !src/views/community/community.css,c/a/caf2dddd442db5885133494c3b32fc9cc39d3744
 ;
 src/App.css,a/a/aa7165aefcf8ee3d73539e99ab007daf1aa18d8d
-T
-$src/components/carousel/carousal.css,5/1/5133a0c63d3caa77b6600d632b80f59cdb9ef7cf
-G
-src/views/home/home.css,b/1/b128382ef3765288779294220cf9af655aa9b8ee
 V
 &src/views/teams/component/IntroCard.js,7/2/72bff84edc4562f2cc15b66ad954620367cdf1c2
+N
+src/components/card/styles.css,e/d/edb36149a56b41c7325537134817c7f919b3a61f
+P
+ src/components/footer/footer.css,2/a/2ace3ec22effda0638def30246fc8b3a06c0970a
+Q
+!src/components/card/CustomCard.js,1/1/11025b8700bdd541381c296e59d4ceb51f07e2a5
+I
+src/views/teams/teams.css,0/7/079ab302c52232a5d61b1bac60bcfefb48897f92
+J
+src/views/contact/index.js,c/9/c9ca49be51b8bd7f68850529c24ac000156c0659
+H
+src/views/teams/index.js,d/5/d5ee84d258169a8cf081da42af94d58221cb5953
+4
+.env,3/c/3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
 F
 src/views/sns/index.js,c/6/c6a6fee2e3129ec7a3ab94f7e13f28f40067b78d
