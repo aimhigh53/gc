@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://aimhigh53.github.io/gc/static/css/main.549e7d72.chunk.css",
-    "main.js": "https://aimhigh53.github.io/gc/static/js/main.ddf56913.chunk.js",
-    "main.js.map": "https://aimhigh53.github.io/gc/static/js/main.ddf56913.chunk.js.map",
+    "main.js": "https://aimhigh53.github.io/gc/static/js/main.38f111b3.chunk.js",
+    "main.js.map": "https://aimhigh53.github.io/gc/static/js/main.38f111b3.chunk.js.map",
     "runtime-main.js": "https://aimhigh53.github.io/gc/static/js/runtime-main.8727f598.js",
     "runtime-main.js.map": "https://aimhigh53.github.io/gc/static/js/runtime-main.8727f598.js.map",
     "static/css/2.d5f4ed81.chunk.css": "https://aimhigh53.github.io/gc/static/css/2.d5f4ed81.chunk.css",
     "static/js/2.bafb7be6.chunk.js": "https://aimhigh53.github.io/gc/static/js/2.bafb7be6.chunk.js",
     "static/js/2.bafb7be6.chunk.js.map": "https://aimhigh53.github.io/gc/static/js/2.bafb7be6.chunk.js.map",
     "index.html": "https://aimhigh53.github.io/gc/index.html",
-    "precache-manifest.7229099d7c1419ece7d3ddfd908a0bfb.js": "https://aimhigh53.github.io/gc/precache-manifest.7229099d7c1419ece7d3ddfd908a0bfb.js",
+    "precache-manifest.bde283a8000f3de988ea3f6584e742f7.js": "https://aimhigh53.github.io/gc/precache-manifest.bde283a8000f3de988ea3f6584e742f7.js",
     "service-worker.js": "https://aimhigh53.github.io/gc/service-worker.js",
     "static/css/2.d5f4ed81.chunk.css.map": "https://aimhigh53.github.io/gc/static/css/2.d5f4ed81.chunk.css.map",
     "static/css/main.549e7d72.chunk.css.map": "https://aimhigh53.github.io/gc/static/css/main.549e7d72.chunk.css.map",
@@ -35,6 +35,6 @@
     "static/css/2.d5f4ed81.chunk.css",
     "static/js/2.bafb7be6.chunk.js",
     "static/css/main.549e7d72.chunk.css",
-    "static/js/main.ddf56913.chunk.js"
+    "static/js/main.38f111b3.chunk.js"
   ]
 }
