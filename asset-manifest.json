@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "https://aimhigh53.github.io/gc/static/css/main.549e7d72.chunk.css",
-    "main.js": "https://aimhigh53.github.io/gc/static/js/main.38f111b3.chunk.js",
-    "main.js.map": "https://aimhigh53.github.io/gc/static/js/main.38f111b3.chunk.js.map",
+    "main.css": "https://aimhigh53.github.io/gc/static/css/main.4be6c0d0.chunk.css",
+    "main.js": "https://aimhigh53.github.io/gc/static/js/main.d56a46c2.chunk.js",
+    "main.js.map": "https://aimhigh53.github.io/gc/static/js/main.d56a46c2.chunk.js.map",
     "runtime-main.js": "https://aimhigh53.github.io/gc/static/js/runtime-main.8727f598.js",
     "runtime-main.js.map": "https://aimhigh53.github.io/gc/static/js/runtime-main.8727f598.js.map",
     "static/css/2.d5f4ed81.chunk.css": "https://aimhigh53.github.io/gc/static/css/2.d5f4ed81.chunk.css",
     "static/js/2.bafb7be6.chunk.js": "https://aimhigh53.github.io/gc/static/js/2.bafb7be6.chunk.js",
     "static/js/2.bafb7be6.chunk.js.map": "https://aimhigh53.github.io/gc/static/js/2.bafb7be6.chunk.js.map",
     "index.html": "https://aimhigh53.github.io/gc/index.html",
-    "precache-manifest.bde283a8000f3de988ea3f6584e742f7.js": "https://aimhigh53.github.io/gc/precache-manifest.bde283a8000f3de988ea3f6584e742f7.js",
+    "precache-manifest.c4496c2be6314d36e5199ac607a11156.js": "https://aimhigh53.github.io/gc/precache-manifest.c4496c2be6314d36e5199ac607a11156.js",
     "service-worker.js": "https://aimhigh53.github.io/gc/service-worker.js",
     "static/css/2.d5f4ed81.chunk.css.map": "https://aimhigh53.github.io/gc/static/css/2.d5f4ed81.chunk.css.map",
-    "static/css/main.549e7d72.chunk.css.map": "https://aimhigh53.github.io/gc/static/css/main.549e7d72.chunk.css.map",
+    "static/css/main.4be6c0d0.chunk.css.map": "https://aimhigh53.github.io/gc/static/css/main.4be6c0d0.chunk.css.map",
     "static/js/2.bafb7be6.chunk.js.LICENSE.txt": "https://aimhigh53.github.io/gc/static/js/2.bafb7be6.chunk.js.LICENSE.txt",
     "static/media/1chung.png": "https://aimhigh53.github.io/gc/static/media/1chung.afb90919.png",
     "static/media/2chung.png": "https://aimhigh53.github.io/gc/static/media/2chung.86647c2f.png",
@@ -34,7 +34,7 @@
     "static/js/runtime-main.8727f598.js",
     "static/css/2.d5f4ed81.chunk.css",
     "static/js/2.bafb7be6.chunk.js",
-    "static/css/main.549e7d72.chunk.css",
-    "static/js/main.38f111b3.chunk.js"
+    "static/css/main.4be6c0d0.chunk.css",
+    "static/js/main.d56a46c2.chunk.js"
   ]
 }
