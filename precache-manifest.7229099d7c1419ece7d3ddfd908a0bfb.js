@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f0215c84c71d1ee70c66f24ead32a97",
+    "revision": "53f7618c429813c7f00ae56e1ad66dac",
     "url": "https://aimhigh53.github.io/gc/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://aimhigh53.github.io/gc/static/css/2.d5f4ed81.chunk.css"
   },
   {
-    "revision": "7bddd1fcfcf2909af8c6",
-    "url": "https://aimhigh53.github.io/gc/static/css/main.841a248d.chunk.css"
+    "revision": "e17bac926986ef7f323b",
+    "url": "https://aimhigh53.github.io/gc/static/css/main.549e7d72.chunk.css"
   },
   {
     "revision": "cea9461ecf4f4ac44451",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://aimhigh53.github.io/gc/static/js/2.bafb7be6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7bddd1fcfcf2909af8c6",
+    "revision": "e17bac926986ef7f323b",
     "url": "https://aimhigh53.github.io/gc/static/js/main.ddf56913.chunk.js"
   },
   {

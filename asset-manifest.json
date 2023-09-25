@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://aimhigh53.github.io/gc/static/css/main.841a248d.chunk.css",
+    "main.css": "https://aimhigh53.github.io/gc/static/css/main.549e7d72.chunk.css",
     "main.js": "https://aimhigh53.github.io/gc/static/js/main.ddf56913.chunk.js",
     "main.js.map": "https://aimhigh53.github.io/gc/static/js/main.ddf56913.chunk.js.map",
     "runtime-main.js": "https://aimhigh53.github.io/gc/static/js/runtime-main.8727f598.js",
@@ -9,10 +9,10 @@
     "static/js/2.bafb7be6.chunk.js": "https://aimhigh53.github.io/gc/static/js/2.bafb7be6.chunk.js",
     "static/js/2.bafb7be6.chunk.js.map": "https://aimhigh53.github.io/gc/static/js/2.bafb7be6.chunk.js.map",
     "index.html": "https://aimhigh53.github.io/gc/index.html",
-    "precache-manifest.e5e28708a20b097ca4860f8b33e4355b.js": "https://aimhigh53.github.io/gc/precache-manifest.e5e28708a20b097ca4860f8b33e4355b.js",
+    "precache-manifest.7229099d7c1419ece7d3ddfd908a0bfb.js": "https://aimhigh53.github.io/gc/precache-manifest.7229099d7c1419ece7d3ddfd908a0bfb.js",
     "service-worker.js": "https://aimhigh53.github.io/gc/service-worker.js",
     "static/css/2.d5f4ed81.chunk.css.map": "https://aimhigh53.github.io/gc/static/css/2.d5f4ed81.chunk.css.map",
-    "static/css/main.841a248d.chunk.css.map": "https://aimhigh53.github.io/gc/static/css/main.841a248d.chunk.css.map",
+    "static/css/main.549e7d72.chunk.css.map": "https://aimhigh53.github.io/gc/static/css/main.549e7d72.chunk.css.map",
     "static/js/2.bafb7be6.chunk.js.LICENSE.txt": "https://aimhigh53.github.io/gc/static/js/2.bafb7be6.chunk.js.LICENSE.txt",
     "static/media/1chung.png": "https://aimhigh53.github.io/gc/static/media/1chung.afb90919.png",
     "static/media/2chung.png": "https://aimhigh53.github.io/gc/static/media/2chung.86647c2f.png",
@@ -34,7 +34,7 @@
     "static/js/runtime-main.8727f598.js",
     "static/css/2.d5f4ed81.chunk.css",
     "static/js/2.bafb7be6.chunk.js",
-    "static/css/main.841a248d.chunk.css",
+    "static/css/main.549e7d72.chunk.css",
     "static/js/main.ddf56913.chunk.js"
   ]
 }
