@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "https://aimhigh53.github.io/gc/static/css/main.841a248d.chunk.css",
+    "main.js": "https://aimhigh53.github.io/gc/static/js/main.ddf56913.chunk.js",
+    "main.js.map": "https://aimhigh53.github.io/gc/static/js/main.ddf56913.chunk.js.map",
+    "runtime-main.js": "https://aimhigh53.github.io/gc/static/js/runtime-main.8727f598.js",
+    "runtime-main.js.map": "https://aimhigh53.github.io/gc/static/js/runtime-main.8727f598.js.map",
+    "static/css/2.d5f4ed81.chunk.css": "https://aimhigh53.github.io/gc/static/css/2.d5f4ed81.chunk.css",
+    "static/js/2.bafb7be6.chunk.js": "https://aimhigh53.github.io/gc/static/js/2.bafb7be6.chunk.js",
+    "static/js/2.bafb7be6.chunk.js.map": "https://aimhigh53.github.io/gc/static/js/2.bafb7be6.chunk.js.map",
+    "index.html": "https://aimhigh53.github.io/gc/index.html",
+    "precache-manifest.e5e28708a20b097ca4860f8b33e4355b.js": "https://aimhigh53.github.io/gc/precache-manifest.e5e28708a20b097ca4860f8b33e4355b.js",
+    "service-worker.js": "https://aimhigh53.github.io/gc/service-worker.js",
+    "static/css/2.d5f4ed81.chunk.css.map": "https://aimhigh53.github.io/gc/static/css/2.d5f4ed81.chunk.css.map",
+    "static/css/main.841a248d.chunk.css.map": "https://aimhigh53.github.io/gc/static/css/main.841a248d.chunk.css.map",
+    "static/js/2.bafb7be6.chunk.js.LICENSE.txt": "https://aimhigh53.github.io/gc/static/js/2.bafb7be6.chunk.js.LICENSE.txt",
+    "static/media/1chung.png": "https://aimhigh53.github.io/gc/static/media/1chung.afb90919.png",
+    "static/media/2chung.png": "https://aimhigh53.github.io/gc/static/media/2chung.86647c2f.png",
+    "static/media/gideon.png": "https://aimhigh53.github.io/gc/static/media/gideon.bf3f83c3.png",
+    "static/media/hispeople.png": "https://aimhigh53.github.io/gc/static/media/hispeople.2fdc90c2.png",
+    "static/media/main_1.png": "https://aimhigh53.github.io/gc/static/media/main_1.76c4992e.png",
+    "static/media/main_2.png": "https://aimhigh53.github.io/gc/static/media/main_2.af0da466.png",
+    "static/media/media1.png": "https://aimhigh53.github.io/gc/static/media/media1.73d45a5b.png",
+    "static/media/media2.png": "https://aimhigh53.github.io/gc/static/media/media2.614aaed8.png",
+    "static/media/media3.png": "https://aimhigh53.github.io/gc/static/media/media3.3062f782.png",
+    "static/media/media_platform_team.png": "https://aimhigh53.github.io/gc/static/media/media_platform_team.ec83e991.png",
+    "static/media/media_team.png": "https://aimhigh53.github.io/gc/static/media/media_team.28b46b6a.png",
+    "static/media/new_family_team.png": "https://aimhigh53.github.io/gc/static/media/new_family_team.189ff5b6.png",
+    "static/media/slick-theme.css": "https://aimhigh53.github.io/gc/static/media/slick.f97e3bbf.svg",
+    "static/media/social_team.png": "https://aimhigh53.github.io/gc/static/media/social_team.a8c0a78d.png",
+    "static/media/welcome.png": "https://aimhigh53.github.io/gc/static/media/welcome.5de9ec3c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8727f598.js",
+    "static/css/2.d5f4ed81.chunk.css",
+    "static/js/2.bafb7be6.chunk.js",
+    "static/css/main.841a248d.chunk.css",
+    "static/js/main.ddf56913.chunk.js"
+  ]
+}
