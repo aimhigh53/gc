@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://aimhigh53.github.io/gc/precache-manifest.0663304d9997edddb22453fab252e51c.js"
+  "https://aimhigh53.github.io/gc/precache-manifest.e115df1a1176868301551ba96b3476dd.js"
 );
 
 self.addEventListener('message', (event) => {
